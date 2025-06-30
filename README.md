@@ -40,4 +40,4 @@ Whether you're building a mock API, pranking a friend, or staying on brand as th
 
 ## 🪪 License
 
-MIT — do whatever you want, just don’t say yes when you should say no. 🧘‍♂️
+Unlicense — do whatever you want, just don’t say yes when you should say no. 🧘‍♂️
